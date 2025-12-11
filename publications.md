@@ -6,10 +6,10 @@ permalink: /publications/
 
 ## 2025 
 
-   * R. Yanagida, J. Singer, P. Harvey, L. Wong, and C. Perkins. “Distributing Quality of Service (QoS) Policies in Name-based Networks”, ANMS Workshop in conjunction with the 45th IEEE International Conference on Distributed Computing Systems (ICDCS), Glasgow, Scotland, UK. 
+   * Ryo Yanagida, Jeremy Singer, Paul Harvey, Leon Wong, and Colin Perkins. “Distributing Quality of Service (QoS) Policies in Name-based Networks”, ANMS Workshop in conjunction with the 45th IEEE International Conference on Distributed Computing Systems (ICDCS), Glasgow, Scotland, UK. 
     [doi: 10.1109/ICDCSW63273.2025.00123](https://doi.org/10.1109/ICDCSW63273.2025.00123)
    
-   * R. Yanagida, J. Singer, P. Harvey, L. Wong, and C. Perkins. “Name-based Quality of Service for Name-based Network”, The 45th IEEE International Conference on Distributed Computing Systems (ICDCS), Glasgow, Scotland, UK. 
+   * Ryo Yanagida, Jeremy Singer, Paul Harvey, Leon Wong, and Colin Perkins. “Name-based Quality of Service for Name-based Network”, The 45th IEEE International Conference on Distributed Computing Systems (ICDCS), Glasgow, Scotland, UK. 
     [doi: 10.1109/ICDCSW63273.2025.00057](https://doi.org/10.1109/ICDCSW63273.2025.00057)
 
 ## 2024
